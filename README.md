@@ -4,5 +4,5 @@
 - ⚡ Fun fact: There is nothing interesting about me
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mateuszpiela&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mateuszpiela&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)<br>
-[![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)](http://ForTheBadge.com)
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mateuszpiela&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://raw.githubusercontent.com/mateuszpiela/mateuszpiela/main/devcard.svg" width="340">
