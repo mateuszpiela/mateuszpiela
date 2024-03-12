@@ -1,4 +1,4 @@
-![Hi here](https://github.com/mateuszpiela/mateuszpiela/raw/main/header.png)
+(https://github.com/mateuszpiela/mateuszpiela/raw/main/header.png)
 - 🌱 I’m currently planning to learn Android
 - 📫 How to reach me: If you are from Poland please use contact form on my website otherwise please send me an issue on repository
 - ⚡ Fun fact: There is nothing interesting about me
