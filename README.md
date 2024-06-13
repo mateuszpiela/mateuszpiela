@@ -14,7 +14,7 @@ Experience in OS:
 - 🐧 Linux (Debian/Ubuntu/AlmaLinux,Rocky Linux (for while),CentOS,Oracle Linux derivied from RHEL,Alpine (for docker containers),Arch Linux 
 - 🍎 Mac OS X (Catalina)
 
-In production server os i use:
+In production server os i use: <br>
 Mainly linux distros:
 - Debian
 - Ubuntu 
