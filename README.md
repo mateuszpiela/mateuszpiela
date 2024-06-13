@@ -14,6 +14,12 @@ Experience in OS:
 - 🐧 Linux (Debian/Ubuntu/AlmaLinux,Rocky Linux (for while),CentOS,Oracle Linux derivied from RHEL,Alpine (for docker containers),Arch Linux 
 - 🍎 Mac OS X (Catalina)
 
+In production server os i use:
+Mainly linux distros:
+- Debian
+- Ubuntu 
+- Almalinux (with SELinux)
+
 Experience in Web Panels:
 - DirectAdmin
 - Plesk
