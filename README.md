@@ -1,5 +1,5 @@
 - 🌱 I’m currently planning to learn Android
-- 📫 How to reach me: If you are from Poland please use contact form on my website otherwise please send me an issue on repository
+- 📫 How to reach me: Reach me via contact form on my website or use gh repo issues
 - ⚡ Fun fact: I like listen to music at work and keep my place quiet :)
 - 💼 Currently working: I am currently working as System Administrator @ DigiTree.
 
@@ -11,14 +11,12 @@ Programming/Scripting languages:
 
 Experience in OS:
 - 🪟 Windows XP-11 and Windows Server from 2008 to latest 
-- 🐧 Linux (Debian/Ubuntu/AlmaLinux,Rocky Linux (for while),CentOS,Oracle Linux derivied from RHEL,Alpine (for docker containers),Arch Linux 
+- 🐧 Linux (Debian/Ubuntu/AlmaLinux/Alpine/Arch Linux)
 - 🍎 Mac OS X (Catalina)
 
-In production server os i use: <br>
-Mainly linux distros:
-- Debian
-- Ubuntu 
-- Almalinux (with SELinux)
+Server OS used in production env:
+- Debian 12
+- Ubuntu
 
 Experience in Web Panels:
 - DirectAdmin
