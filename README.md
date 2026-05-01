@@ -10,17 +10,18 @@ Programming/Scripting languages:
 - 🖥️ Bash/PowerShell
 
 OS used on my desktop and laptop:
-- Kubuntu DE: KDE </br>
+- Fedora DE: KDE </br>
 ![KDE](https://kde.org/stuff/clipart/logo/kde-logo-white-gray-rounded-128x128.png)
 
 Experience in OS:
 - 🪟 Windows XP-11 and Windows Server from 2008 to latest 
-- 🐧 Linux (Ubuntu/Debian/AlmaLinux/Alpine/Arch Linux)
+- 🐧 Linux (Ubuntu/Debian/EL: Redhat,AlmaLinux,Fedora,Rocky/Alpine/Arch Linux)
 - 🍎 Mac OS X (Catalina)
 
 Server OS used in production env:
 - Debian 12
 - Ubuntu
+- Fedora
 - AlmaLinux
 
 Experience in Web Panels:
